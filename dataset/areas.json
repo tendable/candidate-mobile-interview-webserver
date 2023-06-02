@@ -1,0 +1,44 @@
+{
+    "areas": [
+        {
+            "id": 1,
+            "name": "Emergency ICU"
+        },
+        {
+            "id": 2,
+            "name": "A&E Waiting Area"
+        },
+        {
+            "id": 3,
+            "name": "Nightingale Ward"
+        },
+        {
+            "id": 4,
+            "name": "Barton Ward"
+        },
+        {
+            "id": 5,
+            "name": "Sanger Ward"
+        },
+        {
+            "id": 6,
+            "name": "Neill Ward"
+        },
+        {
+            "id": 7,
+            "name": "Breckinridge Ward"
+        },
+        {
+            "id": 8,
+            "name": "Mahoney Ward"
+        },
+        {
+            "id": 9,
+            "name": "Seacole Ward"
+        },
+        {
+            "id": 1,
+            "name": "Taylor Ward"
+        }
+    ]
+}

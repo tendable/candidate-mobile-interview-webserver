@@ -1,0 +1,132 @@
+{
+    "inspection": {
+        "id": 1,
+        "inspectionType": {
+            "id": 1,
+            "name": "Clinical",
+            "access": "write"
+        },
+        "area": {
+            "id": 1,
+            "name": "Emergency ICU"
+        },
+        "survey": {
+            "id": 1,
+            "categories": [
+                {
+                    "id": 1,
+                    "name": "Drugs",
+                    "questions": [
+                        {
+                            "id": 1,
+                            "name": "Is the drugs trolley locked?",
+                            "answerChoices": [
+                                {
+                                    "id": 1,
+                                    "name": "Yes",
+                                    "score": 1.0
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "No",
+                                    "score": 0.0
+                                },
+                                {
+                                    "id": -1,
+                                    "name": "N/A",
+                                    "score": 0.0
+                                }
+                            ],
+                            "selectedAnswerChoiceId": null
+                        },
+                        {
+                            "id": 2,
+                            "name": "How often is the floor cleaned?",
+                            "answerChoices": [
+                                {
+                                    "id": 3,
+                                    "name": "Everyday",
+                                    "score": 1.0
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "Every two days",
+                                    "score": 0.5
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Every week",
+                                    "score": 0.0
+                                }
+                
+                            ],
+                            "selectedAnswerChoiceId": null
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Overall Impressions",
+                    "questions": [ 
+                        {
+                            "id": 3,
+                            "name": "How many staff members are present in the ward?",
+                            "answerChoices": [
+                                {
+                                    "id": 6,
+                                    "name": "1-2",
+                                    "score": 0.5
+                                },
+                                {
+                                    "id": 7,
+                                    "name": "3-6",
+                                    "score": 0.5
+                                },
+                                {
+                                    "id": 8,
+                                    "name": "6+",
+                                    "score": 0.5
+                                },
+                                {
+                                    "id": -1,
+                                    "name": "N/A",
+                                    "score": 0.0
+                                }
+
+                            ],
+                            "selectedAnswerChoiceId": null
+                        },
+                        {
+                            "id": 4,
+                            "name": "How often are the area inspections carried?",
+                            "answerChoices": [
+                                {
+                                    "id": 9,
+                                    "name": "Very often",
+                                    "score": 0.5
+                                },
+                                {
+                                    "id": 10,
+                                    "name": "Often",
+                                    "score": 0.5
+                                },
+                                {
+                                    "id": 11,
+                                    "name": "Not very often",
+                                    "score": 0.5
+                                },
+                                {
+                                    "id": 12,
+                                    "name": "Never",
+                                    "score": 0.5
+                                }
+                
+                            ],
+                            "selectedAnswerChoiceId": null
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

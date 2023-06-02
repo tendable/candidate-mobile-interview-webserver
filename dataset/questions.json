@@ -1,0 +1,196 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "name": "Is the drugs trolley locked?",
+            "answerChoices": [
+                {
+                    "id": 1,
+                    "name": "Yes",
+                    "score": 1.0
+                },
+                {
+                    "id": 2,
+                    "name": "No",
+                    "score": 0.0
+                }
+            ],
+            "selectedAnswerChoiceId": 1
+        },
+        {
+            "id": 2,
+            "name": "Are the drawers locked?",
+            "answerChoices": [
+                {
+                    "id": 1,
+                    "name": "Yes",
+                    "score": 1.0
+                },
+                {
+                    "id": 2,
+                    "name": "No",
+                    "score": 0.0
+                }
+            ],
+            "selectedAnswerChoiceId": 2
+        },
+        {
+            "id": 3,
+            "name": "How often is the floor cleaned?",
+            "answerChoices": [
+                {
+                    "id": 1,
+                    "name": "Everyday",
+                    "score": 1.0
+                },
+                {
+                    "id": 2,
+                    "name": "Every two days",
+                    "score": 0.5
+                },
+                {
+                    "id": 3,
+                    "name": "Every week",
+                    "score": 0.0
+                }
+
+            ],
+            "selectedAnswerChoiceId": 2
+        },
+        {
+            "id": 4,
+            "name": "How often is the floor cleaned?",
+            "answerChoices": [
+                {
+                    "id": 1,
+                    "name": "Everyday",
+                    "score": 1.0
+                },
+                {
+                    "id": 2,
+                    "name": "Every two days",
+                    "score": 0.5
+                },
+                {
+                    "id": 3,
+                    "name": "Every week",
+                    "score": 0.0
+                }
+
+            ],
+            "selectedAnswerChoiceId": null
+        },
+        {
+            "id": 5,
+            "name": "How many staff members are present in the ward?",
+            "answerChoices": [
+                {
+                    "id": 1,
+                    "name": "1-2",
+                    "score": 0.5
+                },
+                {
+                    "id": 2,
+                    "name": "3-6",
+                    "score": 0.5
+                },
+                {
+                    "id": 3,
+                    "name": "6+",
+                    "score": 0.5
+                }
+
+            ],
+            "selectedAnswerChoiceId": null
+        },
+        {
+            "id": 6,
+            "name": "How often are the area inspections carried?",
+            "answerChoices": [
+                {
+                    "id": 1,
+                    "name": "Very often",
+                    "score": 0.5
+                },
+                {
+                    "id": 2,
+                    "name": "Often",
+                    "score": 0.5
+                },
+                {
+                    "id": 3,
+                    "name": "Not very often",
+                    "score": 0.5
+                },
+                {
+                    "id": 4,
+                    "name": "Never",
+                    "score": 0.5
+                }
+
+            ],
+            "selectedAnswerChoiceId": 3
+        },
+        {
+            "id": 7,
+            "name": "How often are the area inspections carried?",
+            "answerChoices": [
+                {
+                    "id": 1,
+                    "name": "Very often",
+                    "score": 1.0
+                },
+                {
+                    "id": 2,
+                    "name": "Often",
+                    "score": 0.75
+                },
+                {
+                    "id": 3,
+                    "name": "Not very often",
+                    "score": 0.5
+                },
+                {
+                    "id": 4,
+                    "name": "Never",
+                    "score": 0.0
+                }
+
+            ],
+            "selectedAnswerChoiceId": 2
+        },
+        {
+            "id": 8,
+            "name": "How many hospital beds are occupied at the time of the inspection?",
+            "answerChoices": [
+                {
+                    "id": 1,
+                    "name": "100%",
+                    "score": 0.0
+                },
+                {
+                    "id": 2,
+                    "name": "75%",
+                    "score": 0.5
+                },
+                {
+                    "id": 3,
+                    "name": "50%",
+                    "score": 1.0
+                },
+                {
+                    "id": 4,
+                    "name": "25%",
+                    "score": 0.5
+                },
+                {
+                    "id": 5,
+                    "name": "0%",
+                    "score": 0.0
+                }
+
+            ],
+            "selectedAnswerChoiceId": null
+        }
+    ]
+}

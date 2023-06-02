@@ -1,0 +1,29 @@
+{
+    "inspectionTypes": [
+        {
+            "id": 1,
+            "name": "Clinical",
+            "access": "write"
+        },
+        {
+            "id": 2,
+            "name": "Quality Check",
+            "access": "write"
+        },
+        {
+            "id": 3,
+            "name": "Cleaning",
+            "access": "read"
+        },
+        {
+            "id": 4,
+            "name": "Safety",
+            "access": "write"
+        },
+        {
+            "id": 5,
+            "name": "Patient Survey",
+            "access": "none"
+        }
+    ]
+}
